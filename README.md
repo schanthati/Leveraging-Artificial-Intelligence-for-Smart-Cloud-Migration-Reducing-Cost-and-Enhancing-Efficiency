@@ -96,6 +96,69 @@ The proof-of-concept implementation is designed for deployment across major clou
 
 <img width="585" height="336" alt="Image ACM 3" src="https://github.com/user-attachments/assets/6c451ee1-1c5c-4229-b091-4b610e0bd673" />
 
+
+## Technical Focus Areas
+
+### Artificial Intelligence for Cloud Migration
+
+Application of artificial intelligence methodologies to automate cloud migration planning, workload analysis, deployment decision-making, infrastructure optimization, and operational modernization across enterprise cloud environments.
+
+### Cloud Cost Optimization
+
+Implementation of AI-driven optimization techniques designed to reduce cloud expenditure through intelligent workload placement, dynamic resource allocation, predictive scaling, and continuous infrastructure utilization analysis.
+
+### Intelligent Resource Allocation
+
+Development of automated decision-support mechanisms that allocate computing resources based on workload demand, performance requirements, operational priorities, and cost-efficiency objectives.
+
+### Long Short-Term Memory (LSTM)
+
+Utilization of Long Short-Term Memory neural networks for time-series forecasting of cloud workloads, resource utilization patterns, infrastructure demand, and operational consumption trends.
+
+### Convolutional Neural Networks (CNN)
+
+Application of Convolutional Neural Networks for pattern recognition, anomaly detection, cloud usage analysis, irregular workload identification, and operational monitoring within cloud environments.
+
+### Transformer Models
+
+Implementation of Transformer-based architectures utilizing attention mechanisms to identify long-term dependencies, seasonal workload patterns, recurring demand cycles, and complex relationships within cloud operational datasets.
+
+### Predictive Analytics
+
+Integration of machine learning models that analyze historical cloud usage data to forecast future infrastructure requirements, operational workloads, capacity utilization, and cost-related trends.
+
+### Workload Forecasting
+
+Application of artificial intelligence techniques to predict future resource demand, workload fluctuations, utilization trends, and infrastructure requirements supporting proactive cloud management.
+
+### Anomaly Detection
+
+Deployment of machine learning algorithms capable of identifying abnormal cloud behaviors, unexpected resource consumption patterns, traffic spikes, performance degradation events, and operational irregularities.
+
+### Multi-Cloud Architecture
+
+Support for intelligent cloud operations across multiple cloud providers, including Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP), enabling workload portability and operational flexibility.
+
+### Cloud Security and Compliance
+
+Integration of security controls, governance frameworks, compliance monitoring mechanisms, privacy-preserving methodologies, and risk management processes within cloud migration and optimization environments.
+
+### Explainable Artificial Intelligence
+
+Implementation of transparent artificial intelligence methodologies that provide interpretable decision-making processes, model accountability, operational traceability, and governance-oriented oversight capabilities.
+
+### Federated Learning
+
+Utilization of distributed machine learning techniques enabling collaborative model training across decentralized environments while preserving data privacy and reducing centralized data exposure risks.
+
+### Cloud Resource Scaling
+
+Application of intelligent scaling mechanisms capable of dynamically adjusting cloud resources in response to changing workload demands, performance requirements, and operational conditions.
+
+### Enterprise Cloud Modernization
+
+Development of AI-enabled modernization strategies supporting migration from traditional infrastructure environments toward scalable, automated, cloud-native enterprise architectures.
+
 ## Related Publication
 
 Leveraging Artificial Intelligence for Smart Cloud Migration, Reducing Cost and Enhancing Efficiency
